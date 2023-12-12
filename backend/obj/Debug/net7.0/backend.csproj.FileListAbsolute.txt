@@ -1,0 +1,15 @@
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/backend.csproj.AssemblyReference.cache
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/backend.AssemblyInfoInputs.cache
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/backend.AssemblyInfo.cs
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/backend.csproj.CoreCompileInputs.cache
+/home/neth/Neth/mptc/g-digital/backend/bin/Debug/net7.0/backend
+/home/neth/Neth/mptc/g-digital/backend/bin/Debug/net7.0/backend.deps.json
+/home/neth/Neth/mptc/g-digital/backend/bin/Debug/net7.0/backend.runtimeconfig.json
+/home/neth/Neth/mptc/g-digital/backend/bin/Debug/net7.0/backend.dll
+/home/neth/Neth/mptc/g-digital/backend/bin/Debug/net7.0/backend.pdb
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/backend.dll
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/refint/backend.dll
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/backend.pdb
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/backend.genruntimeconfig.cache
+/home/neth/Neth/mptc/g-digital/backend/obj/Debug/net7.0/ref/backend.dll
